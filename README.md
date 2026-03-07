@@ -48,10 +48,10 @@ muhammed-emin-yurtlu-9047a2295
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=cs"/>
-<img src="https://skillicons.dev/icons?i=mssql"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
 
 </p>
 
