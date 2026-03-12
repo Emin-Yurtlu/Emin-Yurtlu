@@ -15,8 +15,8 @@
 # 👨‍💻 About Me
 
 
-* 🌱 I’m currently learning **Onion Architecture**
-* 💬 Ask me about **C# , ASP.NET CORE , MVC , ONİON ARCHİTECTURE , WEB API , SQL **
+* 🌱 I’m currently learning **BACKEND DEVELOPER**
+* 💬 Ask me about C# , ASP.NET CORE , MVC , ONİON ARCHİTECTURE , WEB API , SQL ,IDENTİTY
 * 📫 How to reach me **m.eminyumr@gmail.com**
 * ⚡ **I am a Computer Engineering student at Iskenderun Technical University. For me, software development is far more than an academic pursuit; it is a lifelong passion that drives my continuous growth and technical curiosity. Driven by a commitment to lifelong learning, I actively explore modern software architectures and integrate emerging technologies into my projects to enhance my skills.**
 
